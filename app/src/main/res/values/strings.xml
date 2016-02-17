@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BestAppEver</string>
+    <string name="not_main_name">Not as well as main</string>
+    <string name="one_more">Additional Activity</string>
+</resources>
